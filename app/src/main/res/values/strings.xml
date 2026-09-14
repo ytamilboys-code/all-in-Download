@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+    <string name="app_subtitle">YouTube, Facebook, Instagram &amp; Any Video</string>
+    <string name="one_click_download">1-Click Download</string>
+    <string name="paste_link_hint">Paste YouTube, Instagram, FB video link here…</string>
+    <string name="paste_button">Paste</string>
+    <string name="fetch_button">Fetch Video</string>
+    <string name="download_button">Download</string>
+    <string name="tab_download">Downloader</string>
+    <string name="tab_library">My Videos</string>
+    <string name="tab_guide">How to Download</string>
+    <string name="tab_settings">Settings</string>
+    <string name="storage_permission_rationale">Storage permission is used to save videos to your device Gallery.</string>
+</resources>

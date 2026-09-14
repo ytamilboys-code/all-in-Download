@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "One-click video downloader for YouTube, Facebook, Instagram, and social media platforms with built-in player and download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
